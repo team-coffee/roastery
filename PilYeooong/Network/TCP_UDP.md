@@ -1,6 +1,6 @@
-# TCP (Transmission Control Protocol)
+## TCP (Transmission Control Protocol)
 
-## 특징
+### 특징
 - **신뢰할 수 있는 프로토콜**
 - 연결지향 - 3way handshake
 > IP의 단점인 비연결성을 해소한다.
@@ -8,11 +8,9 @@
 > 패킷 전달 중 누락 될시, 이를 인지할 수 있다.
 - 순서 보장
 
----
+## UDP (User Datagram Protocol)
 
-# UDP (User Datagram Protocol)
-
-## 특징
+### 특징
 - 기능이 거의 없음 (하얀 백지)
 - 데이터 전달이 보증 되지 않는다.
 - 패킷 전달 순서가 보장이 되지 않는다.
